@@ -1,0 +1,5 @@
+package posti
+
+class Pakettiautomaatti {
+
+}
